@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.exe.config
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.exe
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.pdb
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.xml
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmdangnhap.resources
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmMain.resources
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmQuanLyNV.resources
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmThemSP.resources
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.Resources.resources
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmQuanlyKH.resources
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.exe
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.xml
+C:\Users\user\Desktop\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.pdb
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.exe.config
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.exe
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.xml
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.pdb
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.exe
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.pdb
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\bin\Debug\quanlybanhang_trangkhd.xml
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmdangnhap.resources
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmMain.resources
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmQuanLyNV.resources
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmThemSP.resources
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.Resources.resources
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.frmQuanlyKH.resources
+D:\bai hoc\Điện toán đám mây M\trangkhdps01001_GD2_Assignment_Inf205\quanlybanhang_trangkhd\quanlybanhang_trangkhd\obj\Debug\quanlybanhang_trangkhd.vbproj.GenerateResource.Cache
